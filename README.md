@@ -1,6 +1,6 @@
 ## Scales of the Asclepius <sup><sub>( SotA )</sup></sub>
 
-Currently small content pack that focuses on adding more ``Support`` focused content, whether it be through items, soon-to-be enemies and elites. This mod currently has 5 items, with 2 locked behind ``Survivors of the Void``.
+Currently small content pack that focuses on adding more ``Support`` focused content, whether it be through items, soon-to-be enemies and elites. This mod currently has 5 items, with 2 locked behind ``Survivors of the Void``. Also multiplayer friendly!
 <br>- Made by **Gemo** ``@noodlegemo``
 
 All content from this mod is entirely toggleable in game through the ``Expansion Icon`` <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/expansionIconNoBackground.png?raw=true" width="32">.
@@ -15,7 +15,7 @@ All content from this mod is entirely toggleable in game through the ``Expansion
 |-|-|------|-|
 | <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/gauzeIconRender.png?raw=true" width="64"> | Gauze Pad | Rapidly heal when afflicted with a debuff. | ``Common`` |
 | <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/IVBagRender.png?raw=true" width="64"> | IV Bag | Tether to nearby allies, sharing all healing. | ``Uncommon`` |
-| <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/collectorsCompassRender.png?raw=true" width="64"> | Collector's Compass | Marks interactables, revealing all interactables and increases maximum health and speed after claiming 3. <sup><sub> Only item right now that has its visual effects not networked! Still works functionally though. </sup></sub> | ``Legendary`` |
+| <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/collectorsCompassRender.png?raw=true" width="64"> | Collector's Compass | Marks interactables, revealing all interactables and increases maximum health and speed after claiming 3. </sup></sub> | ``Legendary`` |
 ### Void Items
 <sup> The following are only the pickup descriptions of the items. </sup>
 | Icon | Item | Description | Tier |
@@ -29,3 +29,8 @@ All content from this mod is entirely toggleable in game through the ``Expansion
 - New **Item Tier**
 - New **Interactables**
 - More **Item Displays**
+
+## Known Issues
+
+- **Collector's Compass** is currently not networked for its visual effects on multiplayer
+- **Collector's Compass** mark does not move if ``Drifter`` bags the interactable
