@@ -1,0 +1,17 @@
+{
+    "name": "Scales_of_the_Asclepius",
+    "version_number": "1.0.3",
+    "website_url": "https://github.com/elementGEMO/ScalesOfTheAsclepius",
+    "description": "Currenly small content pack, currently adding in utility and support items! Now fixed for Alloyed Collective",
+    "dependencies": [
+		"bbepis-BepInExPack-5.4.2121",
+		"Smooth_Salad-ShaderSwapper-1.0.1",
+		"RiskofThunder-R2API_Core-5.1.2",
+        "RiskofThunder-R2API_Items-1.0.7",
+        "RiskofThunder-R2API_Prefab-1.1.1",
+        "RiskofThunder-R2API_ProcType-1.0.2",
+        "RiskofThunder-R2API_Language-1.0.1",
+        "RiskofThunder-R2API_Networking-1.0.3",
+        "RiskofThunder-R2API_RecalculateStats-1.6.3"
+    ]
+}
