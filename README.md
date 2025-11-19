@@ -14,7 +14,7 @@ All content from this mod is entirely toggleable in game through the ``Expansion
 | Icon | Item | Description | Tier |
 |-|-|------|-|
 | <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/gauzeIconRender.png?raw=true" width="64"> | Gauze Pad | Rapidly heal when afflicted with a debuff. | ``Common`` |
-| <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/IVBagRender.png?raw=true" width="64"> | IV Bag | Tether to nearby allies, sharing heals and gaining armor. | ``Uncommon`` |
+| <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/IVBagRender.png?raw=true" width="64"> | IV Bag | Tether to nearby allies, , sharing all healing. | ``Uncommon`` |
 | <img src="https://github.com/elementGEMO/ScalesOfTheAsclepiusThunderstoreAssets/blob/main/VisualAssets/collectorsCompassRender.png?raw=true" width="64"> | Collector's Compass | Marks interactables, revealing all interactables and increases maximum health and speed after claiming 3. <sup><sub> Only item right now that has its visual effects not networked! Still works functionally though. </sup></sub> | ``Legendary`` |
 ### Void Items
 <sup> The following are only the pickup descriptions of the items. </sup>
