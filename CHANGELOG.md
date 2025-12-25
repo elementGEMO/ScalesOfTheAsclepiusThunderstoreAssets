@@ -1,4 +1,7 @@
 ### Changelog
+## Version 1.0.4
+- Fixed internal issue causing Voidset Flame not functioning
+
 ## Version 1.0.3
 - Updated for ``Alloyed Collective``
 - Minor pickup text change for ``IV Bag``
